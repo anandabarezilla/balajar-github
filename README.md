@@ -1,2 +1,2 @@
-# balajar-github
+# belajar-github
 mencoba github
